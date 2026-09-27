@@ -240,6 +240,7 @@ tr:last-child td {
 
 a{
     text-decoration: none;
+    color: white;
 }
 .ai-button {
      display: inline-flex;
